@@ -6,7 +6,7 @@ Esta é uma API simples construída com Flask para converter valores de dólar p
 
 1. Clone o repositório:
     ```bash
-    git clone git remote add origin https://github.com/Dark188/Dolar-for-Reais
+    git clone https://github.com/Dark188/Dolar-for-Reais
     cd dolar_para_real
     ```
 
